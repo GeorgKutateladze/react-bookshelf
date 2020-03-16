@@ -1,0 +1,7 @@
+.books {
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 25px;
+}
+
